@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585941772986.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1272924001",
+    "id" : "142F83F2",
+    "lastKnownWriteTime" : 1585941679,
+    "last_content_update" : 1585941679,
+    "path" : "~/repos/sagemaker/sagemaker-demo/plumber.R",
+    "project_path" : "plumber.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

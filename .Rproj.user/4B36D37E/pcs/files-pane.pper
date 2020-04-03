@@ -1,0 +1,9 @@
+{
+    "path" : "~/repos/sagemaker/sagemaker-demo",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
