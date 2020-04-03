@@ -1,9 +1,9 @@
 SageMaker R Model Deployment Demo
 =====================================
 
-*John Stanton-Geddes*
-
-*12 September, 2018*
+Origin Author: *John Stanton-Geddes*
+Updated by: *Carlos Cortez Bazan*
+*03 April, 2020*
 
 ## Description
 
